@@ -1,3 +1,5 @@
+/*File Name: faculties.js   Student: Betty Han    Student ID:301202325   Date: 2022.10.25  Web App: Faculty List*/
+
 // modules required for routing
 let express = require("express");
 let router = express.Router();

@@ -1,3 +1,4 @@
+/*File Name: faculties.js   Student: Betty Han    Student ID:301202325   Date: 2022.10.25  Web App: Faculty List*/
 let mongoose = require("mongoose");
 
 // create a model class
